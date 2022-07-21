@@ -61,6 +61,10 @@
 				&:nth-child(1){
 					grid-column: 1/2;
 				}
+				&:nth-child(3){
+					grid-row: 3/5;
+					grid-column: 1;
+				}
 			}	
 		}
 	}
